@@ -163,7 +163,7 @@ a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 700px;
-	height: 142px;
+	height: 250px;
 	position: absolute;
 	left: 250px;
 	top: 150px;
@@ -741,8 +741,8 @@ a {
 	width: 90px;
 	height: 70px;
 	position: absolute;
-	left: 1300px;
-	top: 800px;
+	left: 1200px;
+	top: 750px;
 }
 
 
