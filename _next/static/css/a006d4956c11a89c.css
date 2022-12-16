@@ -165,8 +165,8 @@ a {
 	width: 700px;
 	height: 250px;
 	position: absolute;
-	left: 200px;
-	top: 100px;
+	left: 150px;
+	top: 10px;
 }
 
 .Home_connectBtn__q4_OB {
@@ -724,7 +724,7 @@ a {
 
 .Home_fbIcon__HDaE7 {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.318e75c6.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.8a1502bf.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 90px;
@@ -741,8 +741,8 @@ a {
 	width: 90px;
 	height: 70px;
 	position: absolute;
-	left: 1250px;
-	top: 720px;
+	left: 580px;
+	top: 600px;
 }
 
 
