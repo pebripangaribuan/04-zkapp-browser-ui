@@ -159,14 +159,14 @@ a {
 
 .Home_banner__WnS5R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.01720826.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.f823d2f9.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 420px;
-	height: 142px;
+	width: 1000px;
+	height: 200px;
 	position: absolute;
 	left: 250px;
-	top: 150px;
+	top: 250px;
 }
 
 .Home_connectBtn__q4_OB {
