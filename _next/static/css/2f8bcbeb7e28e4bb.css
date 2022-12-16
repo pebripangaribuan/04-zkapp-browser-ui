@@ -162,7 +162,7 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.f823d2f9.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 420px;
+	width: 700px;
 	height: 142px;
 	position: absolute;
 	left: 250px;
@@ -741,8 +741,8 @@ a {
 	width: 90px;
 	height: 70px;
 	position: absolute;
-	left: 1080px;
-	top: 500px;
+	left: 1300px;
+	top: 800px;
 }
 
 
